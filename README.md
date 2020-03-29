@@ -21,5 +21,5 @@ For example A1 would access the top left square and C3 would access the bottom r
 
 The program was build using Python 3 and can be run on windows using the following command:
 ```bash
-$ python ttt.py
+$ .\python ttt.py
 ```
