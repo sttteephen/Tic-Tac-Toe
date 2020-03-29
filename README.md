@@ -9,7 +9,7 @@ They pick squares on the board untill one of them has three squares in a row or 
 
 Squares on the board van be choosen using coordinates as follows:
 
-			1   2   3
+		1   2   3
 		A     |   |
 		  -------------
 		B     |   |
